@@ -1,2 +1,1 @@
-test merging
-second commit
+this is brach 1 readme and its different
